@@ -99,7 +99,7 @@ ChatGPT was used as a:
 - Technical assistant (debugging Tableau errors and Excel scatter plot logic)
 - Project planner/tracker (assist in ensuring all required components are included and correctly formatted)
 
-**Tableau Dashboard 2 - NHL Team General Manager Dashboard**
+## **Tableau Dashboard 2 - NHL Team General Manager Dashboard**
 
 ## Summary of Visualizations
 **Player Age Trends of Top Scorers**
