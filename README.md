@@ -101,7 +101,7 @@ ChatGPT was used as a:
 
 **Tableau Dashboard 2 - NHL Team General Manager Dashboard**
 
-## Summary of Visualizations - XXXXXXXXXXXXXXXXXXXXX
+## Summary of Visualizations
 **Player Age Trends of Top Scorers**
 •	Built a dual-axis ribbon chart in Tableau showing the average, minimum, and maximum ages of top 10 scorers for each of the 2005–2024 NHL seasons.
 •	Helps evaluate whether scoring dominance is shifting to younger players or older players. Are older players with more experience likely to be a top scorer? Or are younger players with better athleticism more likely to be a top scorer? 
